@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1746523767,,"wq!"
+|2,0,1746526087,,"wq!"
 :q!
 |2,0,1746523608,,"q!"
 :WQ!
@@ -37,36 +37,84 @@
 # Registers:
 
 # File marks:
-'0  22  6  ~/demo/demo.txt
-|4,48,22,6,1746523767,"~/demo/demo.txt"
-'1  5  53  ~/demo/readme.md
-|4,49,5,53,1746523608,"~/demo/readme.md"
-'2  8  0  ~/demo/bluestyle.css
-|4,50,8,0,1746523592,"~/demo/bluestyle.css"
-'3  27  6  ~/demo/demo.txt
-|4,51,27,6,1746523181,"~/demo/demo.txt"
-'4  13  6  ~/demo/demo.txt
-|4,52,13,6,1746523181,"~/demo/demo.txt"
-'5  8  0  ~/demo/bluestyle.css
-|4,53,8,0,1746523151,"~/demo/bluestyle.css"
-'6  5  53  ~/demo/readme.md
-|4,54,5,53,1746523120,"~/demo/readme.md"
-'7  8  19  /tmp/first/second.sh
-|4,55,8,19,1746259466,"/tmp/first/second.sh"
-'8  5  0  /tmp/first.sh
-|4,56,5,0,1746257786,"/tmp/first.sh"
-'9  1  0  /tmp/first.sh
-|4,57,1,0,1746257058,"/tmp/first.sh"
+'0  9  16  ~/demo/readme.md
+|4,48,9,16,1746526087,"~/demo/readme.md"
+'1  26  0  ~/demo/demo.txt
+|4,49,26,0,1746524147,"~/demo/demo.txt"
+'2  22  6  ~/demo/demo.txt
+|4,50,22,6,1746523767,"~/demo/demo.txt"
+'3  22  6  ~/demo/demo.txt
+|4,51,22,6,1746523767,"~/demo/demo.txt"
+'4  5  53  ~/demo/readme.md
+|4,52,5,53,1746523608,"~/demo/readme.md"
+'5  5  53  ~/demo/readme.md
+|4,53,5,53,1746523608,"~/demo/readme.md"
+'6  8  0  ~/demo/bluestyle.css
+|4,54,8,0,1746523592,"~/demo/bluestyle.css"
+'7  31  6  ~/demo/demo.txt
+|4,55,31,6,1746523181,"~/demo/demo.txt"
+'8  13  6  ~/demo/demo.txt
+|4,56,13,6,1746523181,"~/demo/demo.txt"
+'9  27  6  ~/demo/demo.txt
+|4,57,27,6,1746523181,"~/demo/demo.txt"
 
 # Jumplist (newest first):
+-'  9  16  ~/demo/readme.md
+|4,39,9,16,1746526087,"~/demo/readme.md"
+-'  5  53  ~/demo/readme.md
+|4,39,5,53,1746526057,"~/demo/readme.md"
+-'  26  0  ~/demo/demo.txt
+|4,39,26,0,1746524147,"~/demo/demo.txt"
+-'  26  0  ~/demo/demo.txt
+|4,39,26,0,1746524147,"~/demo/demo.txt"
+-'  22  6  ~/demo/demo.txt
+|4,39,22,6,1746524125,"~/demo/demo.txt"
+-'  22  6  ~/demo/demo.txt
+|4,39,22,6,1746524125,"~/demo/demo.txt"
 -'  22  6  ~/demo/demo.txt
 |4,39,22,6,1746523767,"~/demo/demo.txt"
+-'  22  6  ~/demo/demo.txt
+|4,39,22,6,1746523767,"~/demo/demo.txt"
+-'  31  6  ~/demo/demo.txt
+|4,39,31,6,1746523727,"~/demo/demo.txt"
+-'  27  6  ~/demo/demo.txt
+|4,39,27,6,1746523727,"~/demo/demo.txt"
+-'  31  6  ~/demo/demo.txt
+|4,39,31,6,1746523727,"~/demo/demo.txt"
 -'  27  6  ~/demo/demo.txt
 |4,39,27,6,1746523727,"~/demo/demo.txt"
 -'  5  53  ~/demo/readme.md
 |4,39,5,53,1746523608,"~/demo/readme.md"
 -'  5  53  ~/demo/readme.md
 |4,39,5,53,1746523608,"~/demo/readme.md"
+-'  5  53  ~/demo/readme.md
+|4,39,5,53,1746523608,"~/demo/readme.md"
+-'  5  53  ~/demo/readme.md
+|4,39,5,53,1746523608,"~/demo/readme.md"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523592,"~/demo/bluestyle.css"
 -'  8  0  ~/demo/bluestyle.css
 |4,39,8,0,1746523592,"~/demo/bluestyle.css"
 -'  8  0  ~/demo/bluestyle.css
@@ -83,6 +131,18 @@
 |4,39,13,6,1746523181,"~/demo/demo.txt"
 -'  13  6  ~/demo/demo.txt
 |4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
+-'  13  6  ~/demo/demo.txt
+|4,39,13,6,1746523181,"~/demo/demo.txt"
 -'  1  0  ~/demo/demo.txt
 |4,39,1,0,1746523168,"~/demo/demo.txt"
 -'  1  0  ~/demo/demo.txt
@@ -93,6 +153,68 @@
 |4,39,1,0,1746523168,"~/demo/demo.txt"
 -'  1  0  ~/demo/demo.txt
 |4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  1  0  ~/demo/demo.txt
+|4,39,1,0,1746523168,"~/demo/demo.txt"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
+-'  8  0  ~/demo/bluestyle.css
+|4,39,8,0,1746523151,"~/demo/bluestyle.css"
 -'  8  0  ~/demo/bluestyle.css
 |4,39,8,0,1746523151,"~/demo/bluestyle.css"
 -'  8  0  ~/demo/bluestyle.css
@@ -133,149 +255,29 @@
 |4,39,1,0,1746523133,"~/demo/bluestyle.css"
 -'  1  0  ~/demo/bluestyle.css
 |4,39,1,0,1746523133,"~/demo/bluestyle.css"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  5  53  ~/demo/readme.md
-|4,39,5,53,1746523120,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  1  0  ~/demo/readme.md
-|4,39,1,0,1746523102,"~/demo/readme.md"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
--'  8  19  /tmp/first/second.sh
-|4,39,8,19,1746259466,"/tmp/first/second.sh"
+-'  1  0  ~/demo/bluestyle.css
+|4,39,1,0,1746523133,"~/demo/bluestyle.css"
+-'  1  0  ~/demo/bluestyle.css
+|4,39,1,0,1746523133,"~/demo/bluestyle.css"
 
 # History of marks within files (newest to oldest):
 
-> ~/demo/demo.txt
-	*	1746523762	0
-	"	22	6
-	^	22	7
-	.	22	6
-	+	27	6
-	+	22	6
-
 > ~/demo/readme.md
-	*	1746523603	0
-	"	5	53
-	^	5	54
-	.	5	53
+	*	1746526081	0
+	"	9	16
+	^	9	17
+	.	9	16
 	+	5	53
+	+	9	16
+
+> ~/demo/demo.txt
+	*	1746524142	0
+	"	26	0
+	^	26	0
+	.	25	41
+	+	31	6
+	+	22	7
+	+	25	41
 
 > ~/demo/bluestyle.css
 	*	1746523587	0
